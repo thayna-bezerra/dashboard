@@ -7,7 +7,7 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        nana: '#8257e6'
+        
       }
     },
   },
